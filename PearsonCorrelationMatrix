@@ -1,0 +1,13 @@
+# Written by Robin Manson-Hing
+
+import pandas as pd
+
+# CSV file path between the single quotes
+file_path = r' '
+df = pd.read_csv(file_path)
+
+# Compute the Pearson Correlation Matrix
+corr_matrix = df.corr(method='pearson')
+
+# Let's take a look
+print(corr_matrix)
