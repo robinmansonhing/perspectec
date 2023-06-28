@@ -1,8 +1,10 @@
 # Perspectec
 
-We combining Institutional Equity Research with Data Science, Machine Learning, Deep Learning, Recurrent Neural Networks and Convolutional Neural Networks
+We combine Deep bottom's up Institutional Equity Research while implementing Data Science, Machine Learning, Deep Learning, Recurrent Neural Networks and Convolutional Neural Networks methods and models where appropriate
 
-Our services primarily involve training and consulting. Project fees run from as low as $100 to a maximum of $4,000.
+This repopsistory contains data analysis techniques and some models
+
+Perspectec's business primarily involve training and consulting. Project fees run from as low as $100 up to $4,000.
 
 Visit us at Perspectec.com
 
